@@ -123,7 +123,7 @@ async def init_db():
                 "\U0001F4E6 Choose Your Membership Plan\n\n"
                 "\U0001F449 Select any plan below to get an instant UPI QR payment card:"
             ),
-            "demo_video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "demo_video": "https://www.image2url.com/r2/default/videos/1788689350793-635df470-449c-4fd5-8ed3-96f503e8b88b.mp4",
         }
         for k, v in defaults.items():
             # Using INSERT OR REPLACE ensures updated clean strings overwrite corrupted ones
