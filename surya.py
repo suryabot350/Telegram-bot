@@ -133,14 +133,14 @@ async def init_db():
             )
 
         default_plans = [
-            ("plan_1", "INDIAN WEBSERIES", 99.0, "30 Days"),
-            ("plan_2", "3 MONTHS SPECIAL", 249.0, "90 Days"),
-            ("plan_3", "6 MONTHS VIP", 449.0, "180 Days"),
-            ("plan_4", "1 YEAR ACCESS", 799.0, "365 Days"),
-            ("plan_5", "LIFETIME PASS", 1299.0, "Lifetime"),
-            ("plan_6", "4K ULTRA STREAM", 199.0, "30 Days"),
-            ("plan_7", "PRO PASS", 349.0, "60 Days"),
-            ("plan_8", "EXCLUSIVE HUB", 599.0, "90 Days"),
+            ("plan_1", "😚ᴀᴅɪᴛʏ ᴍɪsʀʏ ᴀʟʟ 🥵", 99.0, "30 Days"),
+            ("plan_2", "🌽ᴄʜ!ᴅ ᴄᴏʀɴ 🌽", 49.0, "30 Days"),
+            ("plan_3", "💦ɪɴsᴛᴀɢʀᴀᴍ ʟᴇᴀᴋᴇᴅ 🍑", 59.0, "30 Days"),
+            ("plan_4", "💋ʙʀᴏᴛʜᴇʀ ᴀɴᴅ sɪsᴛᴇʀ 💦", 69.0, "30 Days"),
+            ("plan_5", "🫦ᴍᴏᴍ ᴀɴᴅ sᴏɴ 🥵", 69.0, "30 Days"),
+            ("plan_6", "✂️ ʟᴇsʙɪᴀɴs ✂️", 79.0, "30 Days"),
+            ("plan_7", "🤤ɪɴᴅɪᴀɴ ᴡᴇʙsᴇʀɪᴇs 💦", 99.0, "30 Days"),
+            ("plan_8", "ᴀʟʟ ᴛʏᴘᴇ 🌽🌽", 129.0, "Lifetime"),
         ]
         for p in default_plans:
             await db.execute(
