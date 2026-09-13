@@ -113,7 +113,7 @@ async def init_db():
             "maintenance": "off",
             "upi_id": "paytm.s21dj6b@pty",
             "payee_name": "NAZIYA NASRIN",
-            "welcome_photo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+            "welcome_photo": "https://kommodo.ai/i/vMd2KH7PZC8bgMH9mGWm",
             "welcome_text": (
                 "\U0001F44B Welcome to Our Bot!\n\n"
                 "\u2728 Explore features, view demos, check subscriptions, "
